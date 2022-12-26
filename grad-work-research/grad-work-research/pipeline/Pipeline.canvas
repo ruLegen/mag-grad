@@ -1,7 +1,14 @@
 {
 	"nodes":[
-		{"id":"9af7d06b80a7bd35","x":-574,"y":-822,"width":626,"height":50,"color":"4","type":"file","file":"resources/bishop-photogrammetry-pipelines.md"},
-		{"id":"16af80daae0596b8","x":-574,"y":-724,"width":518,"height":263,"type":"file","file":"pipeline/Image capture.md"}
+		{"id":"9af7d06b80a7bd35","x":-610,"y":-1055,"width":554,"height":50,"color":"4","type":"file","file":"resources/Bishop Photogrammetry Pipelines.md"},
+		{"id":"4fdb1c942a669f4d","x":-517,"y":-963,"width":404,"height":50,"color":"4","type":"file","file":"resources/Reality Capture Engine.md"},
+		{"id":"c71c52162d41ddbe","x":510,"y":-206,"width":400,"height":263,"color":"5","type":"file","file":"pipeline/Image Processing.md"},
+		{"id":"16af80daae0596b8","x":-368,"y":-206,"width":518,"height":263,"color":"5","type":"file","file":"pipeline/Image capture.md"},
+		{"id":"c276ff470502a6db","x":793,"y":-723,"width":678,"height":227,"color":"2","type":"file","file":"pipeline/Связь между собой SDK vs Scripting.md"},
+		{"id":"8e3323d87aa87fad","x":1007,"y":-134,"width":250,"height":60,"type":"text","text":"Обработка"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7581966da4f8b73b","fromNode":"c276ff470502a6db","fromSide":"bottom","toNode":"8e3323d87aa87fad","toSide":"top"},
+		{"id":"ac21d179a1acdd13","fromNode":"16af80daae0596b8","fromSide":"right","toNode":"c71c52162d41ddbe","toSide":"left"}
+	]
 }

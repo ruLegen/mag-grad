@@ -31,16 +31,32 @@
               "state": {
                 "file": "pipeline/Pipeline.canvas",
                 "viewState": {
-                  "x": 121.20479485946592,
-                  "y": -587.1577903181611,
+                  "x": -209.93546846902268,
+                  "y": -609.6624684084467,
                   "zoom": -0.6847981012115183,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "69c73fb0f0487e7e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "pipeline/Pipeline.canvas",
+                "viewState": {
+                  "x": 945.7050944549876,
+                  "y": -106.50393496028903,
+                  "zoom": -0.3333333333333332,
                   "snapToGrid": false
                 }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pipeline/Pipeline.canvas",
+                "file": "pipeline/Связь между собой SDK vs Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pipeline/Pipeline.canvas",
+                "file": "pipeline/Связь между собой SDK vs Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pipeline/Pipeline.canvas"
+                "file": "pipeline/Связь между собой SDK vs Scripting.md"
               }
             }
           }
@@ -167,11 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0846f340e4c869a8",
+  "active": "69c73fb0f0487e7e",
   "lastOpenFiles": [
-    "pipeline/Image capture.md",
+    "pipeline/Связь между собой SDK vs Scripting.md",
     "pipeline/Pipeline.canvas",
-    "resources/bishop-photogrammetry-pipelines.md",
+    "pipeline/Image Processing.md",
+    "resources/Bishop Photogrammetry Pipelines.md",
+    "resources/Reality Capture Engine.md",
+    "pipeline/Image capture.md",
     "resources/images/nvidia_slide.png",
     "Untitled.canvas",
     "2017.md",

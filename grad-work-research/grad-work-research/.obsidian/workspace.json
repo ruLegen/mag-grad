@@ -43,15 +43,11 @@
             "id": "69c73fb0f0487e7e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "pipeline/Pipeline.canvas",
-                "viewState": {
-                  "x": 945.7050944549876,
-                  "y": -106.50393496028903,
-                  "zoom": -0.3333333333333332,
-                  "snapToGrid": false
-                }
+                "file": "resources/KeyPoint extraction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pipeline/Связь между собой SDK vs Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pipeline/Связь между собой SDK vs Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pipeline/Связь между собой SDK vs Scripting.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,15 +177,15 @@
   },
   "active": "69c73fb0f0487e7e",
   "lastOpenFiles": [
-    "pipeline/Связь между собой SDK vs Scripting.md",
     "pipeline/Pipeline.canvas",
+    "pipeline/Image aligment.md",
+    "resources/KeyPoint extraction.md",
+    "pipeline/Geometry Processing.md",
+    "pipeline/Связь между этапами SDK vs Scripting.md",
     "pipeline/Image Processing.md",
     "resources/Bishop Photogrammetry Pipelines.md",
     "resources/Reality Capture Engine.md",
     "pipeline/Image capture.md",
-    "resources/images/nvidia_slide.png",
-    "Untitled.canvas",
-    "2017.md",
-    "Pipeline.md"
+    "resources/images/nvidia_slide.png"
   ]
 }

@@ -4,3 +4,4 @@ Normal Displacement
 Ambient Occlussion
 Упрощение геометрии
 
+#pipeline

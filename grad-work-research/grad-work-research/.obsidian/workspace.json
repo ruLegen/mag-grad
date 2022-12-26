@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a395161251976752",
+        "id": "f4a758a2c75a806c",
         "type": "tabs",
         "children": [
           {
-            "id": "6a74dd5038a38707",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "pipeline/Pipeline.canvas",
-                "viewState": {
-                  "x": -261,
-                  "y": -658,
-                  "zoom": -0.018131434544851607,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "0846f340e4c869a8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "pipeline/Pipeline.canvas",
-                "viewState": {
-                  "x": -209.93546846902268,
-                  "y": -609.6624684084467,
-                  "zoom": -0.6847981012115183,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "69c73fb0f0487e7e",
+            "id": "8df16ec3ac021f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/KeyPoint extraction.md",
+                "file": "resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md"
+              }
             }
           }
         ]
@@ -175,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69c73fb0f0487e7e",
+  "active": "8df16ec3ac021f47",
   "lastOpenFiles": [
+    "resources/papers/3D reconstruction using Structure From Motion (SFM) algorithm and Multi View Stereo (MVS) based on computer vision.md",
+    "resources/papers/Close-range photogrammetry enables documentation of environment-induced deformation of architectural heritage.md",
     "pipeline/Pipeline.canvas",
-    "pipeline/Image aligment.md",
-    "resources/KeyPoint extraction.md",
-    "pipeline/Geometry Processing.md",
+    "resources/net/KeyPoint extraction.md",
+    "resources/net/Reality Capture Engine.md",
+    "Untitled.canvas",
     "pipeline/Связь между этапами SDK vs Scripting.md",
     "pipeline/Image Processing.md",
-    "resources/Bishop Photogrammetry Pipelines.md",
-    "resources/Reality Capture Engine.md",
     "pipeline/Image capture.md",
-    "resources/images/nvidia_slide.png"
+    "pipeline/Image aligment.md"
   ]
 }

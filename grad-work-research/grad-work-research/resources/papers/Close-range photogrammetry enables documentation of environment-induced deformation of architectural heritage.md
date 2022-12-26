@@ -1,0 +1,4 @@
+https://www.researchgate.net/publication/280737273_Close-range_photogrammetry_enables_documentation_of_environment-induced_deformation_of_architectural_heritage
+
+#year2015
+#paper

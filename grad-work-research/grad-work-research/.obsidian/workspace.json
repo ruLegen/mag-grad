@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "51c9ebfbecf4578c",
+        "id": "a395161251976752",
         "type": "tabs",
         "children": [
           {
-            "id": "41505e237d3937b5",
+            "id": "6a74dd5038a38707",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "pipeline/Pipeline.canvas",
+                "viewState": {
+                  "x": -261,
+                  "y": -658,
+                  "zoom": -0.018131434544851607,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "0846f340e4c869a8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "pipeline/Pipeline.canvas",
+                "viewState": {
+                  "x": 121.20479485946592,
+                  "y": -587.1577903181611,
+                  "zoom": -0.6847981012115183,
+                  "snapToGrid": false
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pipeline/Pipeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pipeline/Pipeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pipeline/Pipeline.canvas"
+              }
             }
           }
         ]
@@ -138,6 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41505e237d3937b5",
-  "lastOpenFiles": []
+  "active": "0846f340e4c869a8",
+  "lastOpenFiles": [
+    "pipeline/Image capture.md",
+    "pipeline/Pipeline.canvas",
+    "resources/bishop-photogrammetry-pipelines.md",
+    "resources/images/nvidia_slide.png",
+    "Untitled.canvas",
+    "2017.md",
+    "Pipeline.md"
+  ]
 }

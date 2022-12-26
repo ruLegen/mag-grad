@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9af7d06b80a7bd35","x":-574,"y":-822,"width":626,"height":50,"color":"4","type":"file","file":"resources/bishop-photogrammetry-pipelines.md"},
+		{"id":"16af80daae0596b8","x":-574,"y":-724,"width":518,"height":263,"type":"file","file":"pipeline/Image capture.md"}
+	],
+	"edges":[]
+}

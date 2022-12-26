@@ -1,24 +1,24 @@
 {
 	"nodes":[
+		{"id":"dbc6f95fd0769f0c","x":-42,"y":581,"width":250,"height":160,"color":"1","type":"text","text":"Где это должно быть?\nВ самом начале? или прогрммно обраатывать каждый кадр?\n"},
+		{"id":"3e3af3454a7f2ae2","x":-917,"y":-102,"width":400,"height":168,"color":"5","type":"file","file":"pipeline/Camera calibration.md"},
+		{"id":"16af80daae0596b8","x":-376,"y":-152,"width":518,"height":263,"color":"5","type":"file","file":"pipeline/Image capture.md"},
+		{"id":"acdf6c200799597f","x":1899,"y":449,"width":250,"height":50,"type":"text","text":"Tie Points"},
+		{"id":"eb0210324e67ab64","x":2744,"y":-231,"width":400,"height":400,"color":"5","type":"file","file":"pipeline/Geometry Processing.md"},
+		{"id":"2ac26db3e85e009b","x":2062,"y":-943,"width":348,"height":50,"color":"4","type":"file","file":"resources/net/KeyPoint extraction.md"},
 		{"id":"9af7d06b80a7bd35","x":-610,"y":-1055,"width":554,"height":50,"color":"4","type":"file","file":"resources/net/Bishop Photogrammetry Pipelines.md"},
 		{"id":"4fdb1c942a669f4d","x":-517,"y":-963,"width":404,"height":50,"color":"4","type":"file","file":"resources/net/Reality Capture Engine.md"},
-		{"id":"16af80daae0596b8","x":-368,"y":-150,"width":518,"height":263,"color":"5","type":"file","file":"pipeline/Image capture.md"},
-		{"id":"c71c52162d41ddbe","x":308,"y":-206,"width":453,"height":375,"color":"5","type":"file","file":"pipeline/Image Processing.md"},
-		{"id":"63c56c4566352e83","x":847,"y":-48,"width":278,"height":60,"color":"2","type":"text","text":"Отброс \"плохих изображений\""},
-		{"id":"2fd392af9655c19b","x":792,"y":86,"width":109,"height":50,"color":"#ee00ff","type":"text","text":"Process 1"},
-		{"id":"1001a28adcf09dd8","x":931,"y":86,"width":111,"height":50,"color":"#ee00ff","type":"text","text":"Process 2"},
-		{"id":"3e3af3454a7f2ae2","x":-917,"y":-102,"width":400,"height":168,"color":"5","type":"file","file":"pipeline/Camera calibration.md"},
-		{"id":"dbc6f95fd0769f0c","x":-42,"y":581,"width":250,"height":160,"color":"1","type":"text","text":"Где это должно быть?\nВ самом начале? или прогрммно обраатывать каждый кадр?\n"},
-		{"id":"eb0210324e67ab64","x":2744,"y":-231,"width":400,"height":400,"color":"5","type":"file","file":"pipeline/Geometry Processing.md"},
-		{"id":"c276ff470502a6db","x":972,"y":-762,"width":678,"height":227,"color":"2","type":"file","file":"pipeline/Связь между этапами SDK vs Scripting.md"},
-		{"id":"8e3323d87aa87fad","x":1186,"y":-239,"width":250,"height":66,"type":"text","text":"Обработка"},
-		{"id":"9739937679557783","x":1186,"y":-48,"width":250,"height":60,"color":"2","type":"text","text":"Обработка дисторсии изображения"},
-		{"id":"3edf390077515802","x":1460,"y":-48,"width":250,"height":60,"color":"2","type":"text","text":"Цветокоррекция"},
-		{"id":"7e526d7f21de5fc9","x":1441,"y":63,"width":289,"height":50,"color":"#ee00ff","type":"text","text":"DE-Lighting - сложная часть"},
-		{"id":"2ac26db3e85e009b","x":2062,"y":-943,"width":348,"height":50,"color":"4","type":"file","file":"resources/net/KeyPoint extraction.md"},
-		{"id":"acdf6c200799597f","x":1899,"y":449,"width":250,"height":50,"type":"text","text":"Tie Points"},
-		{"id":"04d38b67367915a6","x":1899,"y":-235,"width":424,"height":375,"color":"5","type":"file","file":"pipeline/Image aligment.md"},
-		{"id":"d256195b838e44fa","x":-1011,"y":-1380,"width":803,"height":146,"color":"4","type":"file","file":"resources/papers/Close-range photogrammetry enables documentation of environment-induced deformation of architectural heritage.md"}
+		{"id":"d256195b838e44fa","x":-1011,"y":-1380,"width":803,"height":146,"color":"4","type":"file","file":"resources/papers/Close-range photogrammetry enables documentation of environment-induced deformation of architectural heritage.md"},
+		{"id":"04d38b67367915a6","x":2137,"y":-235,"width":424,"height":375,"color":"5","type":"file","file":"pipeline/Image aligment.md"},
+		{"id":"8e3323d87aa87fad","x":1186,"y":-447,"width":250,"height":66,"type":"text","text":"Обработка"},
+		{"id":"c276ff470502a6db","x":972,"y":-759,"width":678,"height":227,"color":"2","type":"file","file":"pipeline/Связь между этапами SDK vs Scripting.md"},
+		{"id":"63c56c4566352e83","x":892,"y":-39,"width":278,"height":60,"color":"2","type":"text","text":"Отброс \"плохих изображений\""},
+		{"id":"9739937679557783","x":1231,"y":-39,"width":250,"height":60,"color":"2","type":"text","text":"Обработка дисторсии изображения"},
+		{"id":"3edf390077515802","x":1505,"y":-39,"width":250,"height":60,"color":"2","type":"text","text":"Цветокоррекция\n"},
+		{"id":"7e526d7f21de5fc9","x":1486,"y":70,"width":360,"height":108,"color":"#ee00ff","type":"text","text":"1. Цвета должны совпадать с цветами реального объекта ([[Design of a photogrammetry pipeline generating 3D models for real-time engines | ссылка]] 31 с)\n2. Увеличение резкости\n3. Уменьшение отблесков (фильтр на камеру?)\n4. Коррекция хроматической аберрации\n5. Желательно все делать в RAW формате\nDE-Lighting - сложная часть"},
+		{"id":"2fd392af9655c19b","x":837,"y":95,"width":109,"height":50,"color":"#ee00ff","type":"text","text":"Process 1"},
+		{"id":"1001a28adcf09dd8","x":976,"y":95,"width":111,"height":50,"color":"#ee00ff","type":"text","text":"Process 2"},
+		{"id":"c71c52162d41ddbe","x":353,"y":-197,"width":453,"height":375,"color":"5","type":"file","file":"pipeline/Image Processing.md"}
 	],
 	"edges":[
 		{"id":"7581966da4f8b73b","fromNode":"c276ff470502a6db","fromSide":"bottom","toNode":"8e3323d87aa87fad","toSide":"top"},
@@ -31,9 +31,9 @@
 		{"id":"37ec650d9181b8e4","fromNode":"63c56c4566352e83","fromSide":"bottom","toNode":"1001a28adcf09dd8","toSide":"top"},
 		{"id":"1af7afa9eb92b5b7","fromNode":"9739937679557783","fromSide":"right","toNode":"3edf390077515802","toSide":"left"},
 		{"id":"9fe05e5c2eda2ce1","fromNode":"8e3323d87aa87fad","fromSide":"bottom","toNode":"9739937679557783","toSide":"top"},
-		{"id":"682266c3c95f0f95","fromNode":"3edf390077515802","fromSide":"bottom","toNode":"7e526d7f21de5fc9","toSide":"top"},
 		{"id":"b69fac061e70a3b0","fromNode":"16af80daae0596b8","fromSide":"left","toNode":"3e3af3454a7f2ae2","toSide":"right"},
 		{"id":"f7a69a5a501663d2","fromNode":"9739937679557783","fromSide":"bottom","toNode":"dbc6f95fd0769f0c","toSide":"top"},
-		{"id":"f802b1e9b8849191","fromNode":"3e3af3454a7f2ae2","fromSide":"bottom","toNode":"dbc6f95fd0769f0c","toSide":"top"}
+		{"id":"f802b1e9b8849191","fromNode":"3e3af3454a7f2ae2","fromSide":"bottom","toNode":"dbc6f95fd0769f0c","toSide":"top"},
+		{"id":"c734f280ede6c2ca","fromNode":"3edf390077515802","fromSide":"bottom","toNode":"7e526d7f21de5fc9","toSide":"top"}
 	]
 }

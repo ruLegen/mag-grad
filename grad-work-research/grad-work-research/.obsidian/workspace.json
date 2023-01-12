@@ -11,15 +11,11 @@
             "id": "e2ac6c209b34411f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "pipeline/Pipeline.canvas",
-                "viewState": {
-                  "x": 2070.5,
-                  "y": -319.5,
-                  "zoom": -2.1048687800621684,
-                  "snapToGrid": false
-                }
+                "file": "pipeline/Depth Map Generation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pipeline/Pipeline.canvas",
+                "file": "pipeline/Depth Map Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pipeline/Pipeline.canvas",
+                "file": "pipeline/Depth Map Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pipeline/Pipeline.canvas"
+                "file": "pipeline/Depth Map Generation.md"
               }
             }
           }
@@ -152,15 +148,15 @@
   },
   "active": "e2ac6c209b34411f",
   "lastOpenFiles": [
-    "resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
+    "pipeline/Camera calibration.md",
+    "pipeline/Depth Map Generation.md",
+    "pipeline/Image aligment.md",
     "pipeline/Pipeline.canvas",
+    "pipeline/Image Processing.md",
+    "resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
     "pipeline/Связь между этапами SDK vs Scripting.md",
     "resources/papers/3D reconstruction using Structure From Motion (SFM) algorithm and Multi View Stereo (MVS) based on computer vision.md",
     "resources/papers/Close-range photogrammetry enables documentation of environment-induced deformation of architectural heritage.md",
-    "resources/net/KeyPoint extraction.md",
-    "resources/net/Reality Capture Engine.md",
-    "Untitled.canvas",
-    "pipeline/Image Processing.md",
-    "pipeline/Image capture.md"
+    "resources/net/KeyPoint extraction.md"
   ]
 }

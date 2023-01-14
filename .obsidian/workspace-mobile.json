@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "1afe6fdc54e74867",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bded306412800cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9761837b59c24f8c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "grad-work-research/grad-work-research/resources/images/nvidia_slide.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e491a4867e15fe49",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe5ded629aa002cf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "021f7830e472da7d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c580db068accb636",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d9e1fbe9055a86ae",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "30d484e3c33e0842",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "244b3532f43ae3b1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "grad-work-research/grad-work-research/resources/images/nvidia_slide.png",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5ecb870eece6b610",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "grad-work-research/grad-work-research/resources/images/nvidia_slide.png",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e67649508c403ae",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "grad-work-research/grad-work-research/resources/images/nvidia_slide.png"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9761837b59c24f8c",
+  "lastOpenFiles": [
+    "grad-work-research/grad-work-research/resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
+    "grad-work-research/grad-work-research/resources/net/MACHINE VISION - PHYGITALISM.md",
+    "grad-work-research/grad-work-research/resources/papers/Учебное пособие по фотограмметрии.md",
+    "grad-work-research/grad-work-research/resources/images/nvidia_slide.png",
+    "grad-work-research/grad-work-research/pipeline/Point Cloud Generation.md",
+    "grad-work-research/grad-work-research/pipeline/Camera calibration.md"
+  ]
+}

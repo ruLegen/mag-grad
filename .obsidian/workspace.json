@@ -11,8 +11,12 @@
             "id": "ab4cc5c8ddb49484",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "grad-work-research/grad-work-research/resources/net/Open CV Depth map generation Series.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -43,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Photgrammetry course.md",
+                "file": "grad-work-research/grad-work-research/resources/net/Open CV Depth map generation Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Photgrammetry course.md",
+                "file": "grad-work-research/grad-work-research/resources/net/Open CV Depth map generation Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Photgrammetry course.md"
+                "file": "grad-work-research/grad-work-research/resources/net/Open CV Depth map generation Series.md"
               }
             }
           }
@@ -172,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ed2a362d2fa4e7",
+  "active": "ab4cc5c8ddb49484",
   "lastOpenFiles": [
     "grad-work-research/grad-work-research/pipeline/Pipeline.canvas"
   ]

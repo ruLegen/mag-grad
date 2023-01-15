@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "69f50df6e026ac64",
+        "id": "2b235075f8bfeedb",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4cc5c8ddb49484",
+            "id": "aa73acb753c72d40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/MACHINE VISION - PHYGITALISM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06711d12d32fc392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a9b229d59ffebd4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
-                "viewState": {
-                  "x": 2070.5,
-                  "y": -319.5,
-                  "zoom": -2.1048687800621684,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "299f1d1d2423786b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Photgrammetry course.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,18 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "4fa88a8a6f25a1fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06711d12d32fc392",
+  "active": "aa73acb753c72d40",
   "lastOpenFiles": [
     "grad-work-research/grad-work-research/resources/net/MACHINE VISION - PHYGITALISM.md",
+    "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
+    "grad-work-research/grad-work-research/resources/net/(курс от Stanford) CS231A Computer Vision, From 3D Reconstruction to Recognition.md",
     "grad-work-research/grad-work-research/resources/net/Photgrammetry course.md",
     "grad-work-research/grad-work-research/resources/papers/Учебное пособие по фотограмметрии.md",
     "grad-work-research/grad-work-research/resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",

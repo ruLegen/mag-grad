@@ -11,11 +11,32 @@
             "id": "aa73acb753c72d40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
+                "viewState": {
+                  "x": 2070.5,
+                  "y": -777.6939680232562,
+                  "zoom": -2.300655844816447,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "c6532c3df50e4aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md"
+              }
             }
           },
           {
@@ -146,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa73acb753c72d40",
+  "active": "c6532c3df50e4aa5",
   "lastOpenFiles": [
+    "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
     "grad-work-research/grad-work-research/resources/net/MACHINE VISION - PHYGITALISM.md",
     "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
     "grad-work-research/grad-work-research/resources/net/(курс от Stanford) CS231A Computer Vision, From 3D Reconstruction to Recognition.md",
@@ -156,7 +182,6 @@
     "grad-work-research/grad-work-research/resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
     "grad-work-research/grad-work-research/resources/papers/Close-range photogrammetry enables documentation of environment-induced deformation of architectural heritage.md",
     "grad-work-research/grad-work-research/resources/papers/3D reconstruction using Structure From Motion (SFM) algorithm and Multi View Stereo (MVS) based on computer vision.md",
-    "grad-work-research/grad-work-research/resources/net/Open CV Depth map generation Series.md",
-    "grad-work-research/grad-work-research/pipeline/Pipeline.canvas"
+    "grad-work-research/grad-work-research/resources/net/Open CV Depth map generation Series.md"
   ]
 }

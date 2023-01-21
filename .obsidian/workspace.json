@@ -53,14 +53,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
+                "file": "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9cf36d6b6d019b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grad-work-research/grad-work-research/resources/net/Multiple View Geometry in Computer Vision Second Edition (глава про эпиполярную геометрию).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
+                "file": "grad-work-research/grad-work-research/resources/net/Multiple View Geometry in Computer Vision Second Edition (глава про эпиполярную геометрию).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
+                "file": "grad-work-research/grad-work-research/resources/net/Multiple View Geometry in Computer Vision Second Edition (глава про эпиполярную геометрию).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md"
+                "file": "grad-work-research/grad-work-research/resources/net/Multiple View Geometry in Computer Vision Second Edition (глава про эпиполярную геометрию).md"
               }
             }
           },
@@ -195,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1384172978478d16",
+  "active": "e9cf36d6b6d019b6",
   "lastOpenFiles": [
-    "grad-work-research/grad-work-research/resources/net/Введение в эпиполярную геометрию и стереозрение.md",
-    "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
-    "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
-    "grad-work-research/grad-work-research/resources/net/MACHINE VISION - PHYGITALISM.md",
+    "grad-work-research/grad-work-research/resources/papers/(hub.sfedu) Решение задачи оценки траектории движения камеры по ряду стереоизображений в реальном масштабе времени и времени.md",
+    "grad-work-research/grad-work-research/resources/net/Multiple View Geometry in Computer Vision Second Edition (глава про эпиполярную геометрию).md",
     "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
-    "grad-work-research/grad-work-research/resources/net/(курс от Stanford) CS231A Computer Vision, From 3D Reconstruction to Recognition.md",
-    "grad-work-research/grad-work-research/resources/net/Photgrammetry course.md",
-    "grad-work-research/grad-work-research/resources/papers/Учебное пособие по фотограмметрии.md",
     "grad-work-research/grad-work-research/resources/papers/Design of a photogrammetry pipeline generating 3D models for real-time engines.md",
-    "grad-work-research/grad-work-research/resources/papers/Close-range photogrammetry enables documentation of environment-induced deformation of architectural heritage.md"
+    "grad-work-research/grad-work-research/resources/papers/Close-range photogrammetry enables documentation of environment-induced deformation of architectural heritage.md",
+    "grad-work-research/grad-work-research/resources/papers/3D reconstruction using Structure From Motion (SFM) algorithm and Multi View Stereo (MVS) based on computer vision.md",
+    "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
+    "grad-work-research/grad-work-research/resources/net/Введение в эпиполярную геометрию и стереозрение.md",
+    "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
+    "grad-work-research/grad-work-research/resources/net/MACHINE VISION - PHYGITALISM.md"
   ]
 }

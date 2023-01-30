@@ -11,11 +11,15 @@
             "id": "e2ac6c209b34411f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "pipeline/Depth Map Generation.md",
-                "mode": "source",
-                "source": false
+                "file": "pipeline/Pipeline.canvas",
+                "viewState": {
+                  "x": -460.2610650605382,
+                  "y": -248.69697771802225,
+                  "zoom": -0.3333333333333334,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pipeline/Depth Map Generation.md",
+                "file": "pipeline/Camera calibration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pipeline/Depth Map Generation.md",
+                "file": "pipeline/Camera calibration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pipeline/Depth Map Generation.md"
+                "file": "pipeline/Camera calibration.md"
               }
             }
           }
@@ -148,8 +152,8 @@
   },
   "active": "e2ac6c209b34411f",
   "lastOpenFiles": [
-    "pipeline/Camera calibration.md",
     "pipeline/Depth Map Generation.md",
+    "pipeline/Camera calibration.md",
     "pipeline/Image aligment.md",
     "pipeline/Pipeline.canvas",
     "pipeline/Image Processing.md",

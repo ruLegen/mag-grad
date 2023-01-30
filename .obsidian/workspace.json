@@ -75,11 +75,15 @@
             "id": "33ff46ce5cd00bf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Видео подборка от First Principles of Computer Vision.md",
-                "mode": "source",
-                "source": false
+                "file": "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
+                "viewState": {
+                  "x": 2703.1469076636095,
+                  "y": -288.24274268413586,
+                  "zoom": -1.3006558448164471,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -150,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Видео подборка от First Principles of Computer Vision.md",
+                "file": "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Видео подборка от First Principles of Computer Vision.md",
+                "file": "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grad-work-research/grad-work-research/resources/net/Видео подборка от First Principles of Computer Vision.md"
+                "file": "grad-work-research/grad-work-research/pipeline/Pipeline.canvas"
               }
             }
           },
@@ -219,8 +223,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ff46ce5cd00bf2",
+  "active": "4fa88a8a6f25a1fb",
   "lastOpenFiles": [
+    "grad-work-research/grad-work-research/resources/net/Видео подборка от First Principles of Computer Vision.md",
     "grad-work-research/grad-work-research/resources/net/Multiple View Geometry in Computer Vision Second Edition (глава про эпиполярную геометрию).md",
     "grad-work-research/grad-work-research/resources/papers/(hub.sfedu) Решение задачи оценки траектории движения камеры по ряду стереоизображений в реальном масштабе времени и времени.md",
     "grad-work-research/grad-work-research/resources/papers/Learning OpenCV Gary Bradski and Adrian Kaehler (главы 10,11,12).md",
@@ -229,7 +234,6 @@
     "grad-work-research/grad-work-research/resources/papers/3D reconstruction using Structure From Motion (SFM) algorithm and Multi View Stereo (MVS) based on computer vision.md",
     "grad-work-research/grad-work-research/resources/net/Датасет стереопар (стреопары + их карты глубин).md",
     "grad-work-research/grad-work-research/resources/net/Введение в эпиполярную геометрию и стереозрение.md",
-    "grad-work-research/grad-work-research/pipeline/Pipeline.canvas",
-    "grad-work-research/grad-work-research/resources/net/MACHINE VISION - PHYGITALISM.md"
+    "grad-work-research/grad-work-research/pipeline/Pipeline.canvas"
   ]
 }

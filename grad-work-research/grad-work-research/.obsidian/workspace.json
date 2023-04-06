@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pipeline/Camera calibration.md",
+                "file": "pipeline/Pipeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pipeline/Camera calibration.md",
+                "file": "pipeline/Pipeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pipeline/Camera calibration.md"
+                "file": "pipeline/Pipeline.canvas"
               }
             }
           }
